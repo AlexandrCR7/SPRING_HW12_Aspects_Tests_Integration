@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: Spring_HW12_Tests_Aspects_Integrations
+  jpa:
+    generate-ddl: false
+    hibernate:
+      ddl-auto: none
